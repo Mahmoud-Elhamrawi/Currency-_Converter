@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Currency-_Converter/static/css/main.b5bca636.css",
+    "main.js": "/Currency-_Converter/static/js/main.eb6a6e9d.js",
+    "static/js/787.d3befce1.chunk.js": "/Currency-_Converter/static/js/787.d3befce1.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Currency-_Converter/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
+    "static/media/fa-brands-400.ttf": "/Currency-_Converter/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
+    "static/media/fa-solid-900.woff2": "/Currency-_Converter/static/media/fa-solid-900.64d495f582d4a1590a6c.woff2",
+    "static/media/fa-brands-400.woff2": "/Currency-_Converter/static/media/fa-brands-400.a914b121110f8b6e01c9.woff2",
+    "static/media/fa-regular-400.ttf": "/Currency-_Converter/static/media/fa-regular-400.625dca125b58060788da.ttf",
+    "static/media/g3.jpg": "/Currency-_Converter/static/media/g3.fa4e11d8777bc6a8e6ef.jpg",
+    "static/media/fa-regular-400.woff2": "/Currency-_Converter/static/media/fa-regular-400.47074dec01b64a5db2c4.woff2",
+    "static/media/g7.webp": "/Currency-_Converter/static/media/g7.43537e6eba25578a05a5.webp",
+    "static/media/man.png": "/Currency-_Converter/static/media/man.9c6ce9338aebcabb9038.png",
+    "static/media/g6.jfif": "/Currency-_Converter/static/media/g6.f95ba8e2559b60156a53.jfif",
+    "static/media/g5.webp": "/Currency-_Converter/static/media/g5.ba2cf70812b485db8384.webp",
+    "static/media/g2.webp": "/Currency-_Converter/static/media/g2.a9b4f75385db544efdd5.webp",
+    "static/media/g4.jpg": "/Currency-_Converter/static/media/g4.5c235ae21f46546cfa00.jpg",
+    "static/media/g10.jfif": "/Currency-_Converter/static/media/g10.b458a5adedcdf2c9b8fb.jfif",
+    "static/media/fa-v4compatibility.ttf": "/Currency-_Converter/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
+    "static/media/g11.jfif": "/Currency-_Converter/static/media/g11.2ce14e44374a01dca285.jfif",
+    "static/media/g8.jfif": "/Currency-_Converter/static/media/g8.357c33de32b8f2dcf615.jfif",
+    "static/media/g9.jfif": "/Currency-_Converter/static/media/g9.9fb82742b82d17b5fd12.jfif",
+    "static/media/g1.jfif": "/Currency-_Converter/static/media/g1.54d21b95c7e54875a0a1.jfif",
+    "static/media/fa-v4compatibility.woff2": "/Currency-_Converter/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
+    "static/media/images (1).jfif": "/Currency-_Converter/static/media/images (1).170f91658fe76d36fc9c.jfif",
+    "index.html": "/Currency-_Converter/index.html",
+    "main.b5bca636.css.map": "/Currency-_Converter/static/css/main.b5bca636.css.map",
+    "main.eb6a6e9d.js.map": "/Currency-_Converter/static/js/main.eb6a6e9d.js.map",
+    "787.d3befce1.chunk.js.map": "/Currency-_Converter/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5bca636.css",
+    "static/js/main.eb6a6e9d.js"
+  ]
+}
